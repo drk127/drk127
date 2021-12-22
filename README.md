@@ -7,6 +7,9 @@
 
 ![drk127 GitHub stats](https://github-readme-stats.vercel.app/api?username=drk127&theme=radical)
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=drk127&layout=compact)](https://github.com/drk127/github-readme-stats)
+
+
 ## linguagens que trabalho ##
 
 <div style="display: inline_block"><br/>
