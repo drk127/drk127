@@ -1,7 +1,4 @@
-**👩‍💻 Olá Eu sou um programador Que está começando Agr Então Irei Deixa Informações Minha Abaixo 📃**
+## Olá Me chamo Drk 👋 ##
 
-## Informações Minhas ##
-
-**👋 -- My name: Drk
-  🔞 -- Minha idade: 11 years
-  👩‍💻 -- Programo: <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/drakt_092)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/920641380735410246)
