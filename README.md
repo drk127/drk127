@@ -1,4 +1,4 @@
-## Olá Me chamo Drk 👋 Sou Um Programador Mediano ##
+## **Olá Me chamo Drk 👋 Sou Um Programador Mediano** ##
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/drakt_092)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/920641380735410246)
@@ -14,3 +14,10 @@
 <img aligm="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img aligm="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img aligm="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
+
+**👩‍💻 Programo Porquê Gosto E não Por Dinheiro 👩‍💻**
+
+## Utils ##
+- [Gmail](drakzera60@gmail.com)
+- [Tdk](https://dsc.gg/darking)
